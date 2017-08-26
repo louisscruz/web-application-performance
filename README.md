@@ -6,7 +6,7 @@ This repository contains my notes on increasing the performance of web applicati
 
 * [React Pure Components]
 
-[React Pure Components]: ./notes/react/pure-component
+[React Pure Components]: ./notes/react/pure-component.md
 
 ## Resources
 
