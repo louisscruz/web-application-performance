@@ -230,4 +230,6 @@ So, the `Number` component will properly re-render.
 
 ## Immutable.js
 
-Immutable.js is an option for handling props and state immutably.
+[Immutable.js] is an option for handling props and state immutably.
+
+[Immutable.js]: https://facebook.github.io/immutable-js/
